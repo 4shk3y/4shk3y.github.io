@@ -200,10 +200,6 @@ header .navigation{
   align-items: center;
 }
 
-header .logo{
-
-}
-
 header .list{
   display: flex;
   flex-direction: row;
