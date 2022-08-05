@@ -1,6 +1,5 @@
 body{
   position: relative;
-  width: 1440px;
   height: 900px;
   background: radial-gradient(50% 50% at 50% 50%, #FBBC05 0%, #FF8F3F 100%);
 }
