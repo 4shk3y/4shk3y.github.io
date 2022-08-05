@@ -26,3 +26,24 @@ header .list{
   flex-direction: row;
   grid-gap: 40px;
 }
+
+h1{
+
+}
+
+main{
+  display: flex;
+}
+
+main .eclipse1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+main .cup1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
