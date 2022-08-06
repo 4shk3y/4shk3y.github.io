@@ -264,3 +264,48 @@ main .cup {
   left: 50%;
   top: 50%;
 }
+
+main .wrapper{
+  display: flex;
+  position: absolute;
+  width: 221px;
+  height: 508px;
+  left: 1176px;
+  top: 196px;
+}
+
+main .scroller{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+main .scroller p{
+  display: flex;
+  writing-mode: vertical-rl;
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 12.6px;
+  line-height: 207.9%;
+  letter-spacing: 6px;
+  text-transform: uppercase;
+  color: white;
+}
+
+main .scroller button{
+  border: none;
+  background: transparent;
+}
+
+main .wrapper .slider-right{
+  width: 164px;
+  height: 508px;
+  left: 1176px;
+  top: 196px;
+  background: #FFFFFF;
+  box-shadow: 18px 39px 69px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 97px;
+}
+
+.slider-right .slider-control{}
