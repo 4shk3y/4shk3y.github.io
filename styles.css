@@ -308,4 +308,12 @@ main .wrapper .slider-right{
   border-radius: 97px;
 }
 
-.slider-right .slider-control{}
+.slider-right .slide-control {
+  width: 140px;
+  height: 140px;
+}
+
+.slider-right .slide-control img {
+  width: 140px;
+  height: 140px;
+}
